@@ -27,7 +27,7 @@
 * разобрать книгу по Apache Zookeeper
 * сделать лабы по Apache Zookeeper
 
-##AWS
+## AWS
 * разобрать книгу Learning Amazon Web Services (AWS): A Hands-On Guide to the Fundamentals of AWS Cloud 
 * получить сертифиацию AWS Developer Associate
 * получить сертифиацию AWS Solution Architect Associate

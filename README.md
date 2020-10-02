@@ -8,8 +8,6 @@
 * прочитать Таненбаум: Современные операционные системы
 * прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
 
-
-
 ## Messages, Events, Queues and so on
 * ~~разобрать спецификацию JMS 1.1/JMS 2.0 https://klvufg.wordpress.com/2018/11/29/jms-1-1/~~
 * ~~прочитать книгу про ActiveMQ: https://www.manning.com/books/activemq-in-action~~
@@ -37,3 +35,6 @@
 * разобрать книгу Learning Amazon Web Services (AWS): A Hands-On Guide to the Fundamentals of AWS Cloud 
 * получить сертифиацию AWS Developer Associate
 * получить сертифиацию AWS Solution Architect Associate
+
+## Architecture
+* разобрать книгу https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/

@@ -1,5 +1,5 @@
-## Learning-Path
+# Learning-Path
 
-# Основы
+## Основы
 
-# Messages, Events, Queues and so on
+## Messages, Events, Queues and so on

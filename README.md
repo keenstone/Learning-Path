@@ -8,7 +8,7 @@
 * ~~разобрать спецификацию JMS 1.1/JMS 2.0 https://klvufg.wordpress.com/2018/11/29/jms-1-1/~~
 * ~~прочитать книгу про ActiveMQ: https://www.manning.com/books/activemq-in-action~~
 * ~~разобрать протокол AMQP https://klvufg.wordpress.com/2019/05/22/rabbitmq-amqp-0-9-1/~~
-* ~~разобрать книку Streaming Data UNDERSTANDING THE REAL-TIME PIPELINE~~ офигенная книжка. Очень понравилась
+* ~~разобрать книку https://www.manning.com/books/streaming-data~~ офигенная книжка. Очень понравилась
 * прочитать книгу про RabbitMQ 
 * разобрать книгу https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns 
 * ~~пройти вводный тренинг https://learning.oreilly.com/live-training/courses/mastering-patterns-in-event-driven-architecture/0636920440239/~~

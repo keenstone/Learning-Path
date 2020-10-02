@@ -7,11 +7,11 @@
 ## Messages, Events, Queues and so on
 * ~~разобрать спецификацию JMS 1.1/JMS 2.0~~
 * ~~прочитать книгу про ActiveMQ: https://www.manning.com/books/activemq-in-action~~
-* ~~разобрать протокол AMQP
+* ~~разобрать протокол AMQP~~
 * прочитать книгу про RabbitMQ 
 * разобрать книгу https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns 
-* ~~пройти вводный тренинг https://learning.oreilly.com/live-training/courses/mastering-patterns-in-event-driven-architecture/0636920440239/
-* ~~пройти вврдный тренинг https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/
+* ~~пройти вводный тренинг https://learning.oreilly.com/live-training/courses/mastering-patterns-in-event-driven-architecture/0636920440239/~~
+* ~~пройти вврдный тренинг https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/~~
 * прочитать книгу про Apache Kafka
 * сделать лабы по Apache Kafka
 * прочитать книгу про Apache Hadoop

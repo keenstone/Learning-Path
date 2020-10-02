@@ -3,6 +3,12 @@
 ## Основы
 * прочитать Дейт SQL и реляционная теория
 * прочитать Таненбаум: Современные операционные системы
+* ~~прочитать Таненбаум: Компьютерные сети~~
+* ~~прочитать Таненбаум: Архитектура компьютера~~
+* прочитать Таненбаум: Современные операционные системы
+* прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
+
+
 
 ## Messages, Events, Queues and so on
 * ~~разобрать спецификацию JMS 1.1/JMS 2.0 https://klvufg.wordpress.com/2018/11/29/jms-1-1/~~
@@ -24,7 +30,6 @@
 * прочитать книгу про Apache Beam
 * сделать лабы по Apache Beam
 * разобрать Designing Data-Intensive Applications https://dataintensive.net/ офигенная книжка. Очень понравилась!!!
-* разобрать Distributed Systems: Tanenbaum (2017)
 * разобрать книгу по Apache Zookeeper
 * сделать лабы по Apache Zookeeper
 

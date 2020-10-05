@@ -4,12 +4,12 @@
 * ~~прочитать Таненбаум: Компьютерные сети~~
 * ~~прочитать Таненбаум: Архитектура компьютера~~
 
-### DB
+#### DB
 * прочитать Дейт SQL и реляционная теория
 * прочитать Database System Concepts - Sixth Edition https://www.db-book.com/db6/index.html
-### OS
+#### OS
 * прочитать Таненбаум: Современные операционные системы
-### Distributed Systems
+#### Distributed Systems
 * прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
 
 ## Messages, Events, Queues and so on

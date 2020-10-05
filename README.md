@@ -6,6 +6,7 @@
 
 #### DB
 * прочитать Дейт SQL и реляционная теория
+* прочитать Database Internals https://learning.oreilly.com/library/view/database-internals/9781492040330/
 * прочитать Database System Concepts - Sixth Edition https://www.db-book.com/db6/index.html
 #### OS
 * прочитать Таненбаум: Современные операционные системы

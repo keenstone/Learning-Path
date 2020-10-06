@@ -12,7 +12,9 @@
 * прочитать Таненбаум: Современные операционные системы
 #### Distributed Systems
 * прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
-
+#### Other
+* ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/hands-on-introduction-to-oauth-20/0636920365303/~~ хороший старт для применения. В данном курсе уже есть практика
+* ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/expert-transport-layer-security-tls/0636920396093/~~ неплохое введение в SSL/TLS
 ## Messages, Events, Queues and so on
 * ~~разобрать спецификацию JMS 1.1/JMS 2.0 https://klvufg.wordpress.com/2018/11/29/jms-1-1/~~
 * ~~прочитать книгу про ActiveMQ: https://www.manning.com/books/activemq-in-action~~

@@ -28,6 +28,9 @@
 * ~~пройти вводный тренинг https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/~~
 * прочитать книгу про Apache Kafka
 * сделать лабы по Apache Kafka
+* пройти вводный курс https://learning.oreilly.com/live-training/courses/spark-30-first-steps/0636920458197/
+* прочитать книгу про Apache Spark
+* сделать лабы по Apache Spark
 * прочитать книгу про Apache Hadoop
 * сделать лабы по Apache Hadoop
 * прочитать книгу про Apache Storm

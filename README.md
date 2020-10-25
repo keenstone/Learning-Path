@@ -28,6 +28,8 @@
 * ~~пройти вводный тренинг https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/~~
 * прочитать книгу про Apache Kafka
 * сделать лабы по Apache Kafka
+* прочитать книгу про Apache Pulsar
+* сделать лабы по Apache Pulsar
 * пройти вводный курс https://learning.oreilly.com/live-training/courses/spark-30-first-steps/0636920458197/
 * прочитать книгу про Apache Spark
 * сделать лабы по Apache Spark

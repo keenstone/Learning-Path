@@ -26,6 +26,7 @@
 * ~~пройти вводный тренинг https://learning.oreilly.com/live-training/courses/mastering-patterns-in-event-driven-architecture/0636920440239/~~
 * ~~пройти вводный тренинг https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/~~
 * прочитать книгу по Apache Zookeeper https://learning.oreilly.com/library/view/zookeeper/9781449361297/
+* сделать лабы по Apache Zookeeper
 * разобрать книгу про Apache Kafka
 * сделать лабы по Apache Kafka
 * прочитать книгу про Apache Pulsar

@@ -17,6 +17,7 @@
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/expert-transport-layer-security-tls/0636920396093/~~ неплохое введение в SSL/TLS
 * ~~прочитать книгу https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309~~ неплохая книга. Кника о том, что правильная команда - все, а инструменты - вторично по сравнению с командой. Действительно нужно перечитывать с некоторой периодичностью. Похоже на попурри литературы работы с командой и между командами.
 * почитать про балансировщики: nginx, haproxy, envoy, zuul, traefik
+* почитать про istio
 
 ## Messages, Events, Queues and so on
 * ~~разобрать спецификацию JMS 1.1/JMS 2.0 https://klvufg.wordpress.com/2018/11/29/jms-1-1/~~

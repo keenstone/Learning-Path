@@ -56,3 +56,6 @@
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/architecture-for-continuous-delivery/0636920254331/~~ зачетный курс. Нил Форд - крутой)
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/solid-principles-of-object-oriented-and-agile-design/0636920239789/~~ Дядюшка Боб рулит!
 * разобрать книгу https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/
+
+## Tools
+* ~~начать использовать JFrog Artifactory~~

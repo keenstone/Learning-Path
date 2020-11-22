@@ -58,4 +58,4 @@
 * разобрать книгу https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/
 
 ## Tools
-* ~~начать использовать JFrog Artifactory~~
+* ~~начать использовать JFrog Artifactory в продакшене~~

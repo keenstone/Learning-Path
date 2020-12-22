@@ -29,7 +29,9 @@
 * ~~пройти вводный тренинг https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/~~
 * прочитать книгу по Apache Zookeeper https://learning.oreilly.com/library/view/zookeeper/9781449361297/
 * сделать лабы по Apache Zookeeper
-* разобрать книгу про Apache Kafka
+* разобрать книгу про Apache Kafka https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/ количество хороших отзывов большое
+ https://learning.oreilly.com/library/view/kafka-the-definitive/9781492043072/ это вторая часть. Пока ранний доступ
+* разобрать книгу про Apache Kafka Streams https://learning.oreilly.com/library/view/kafka-streams-in/9781617294471/ тоже хорошие отзывы
 * сделать лабы по Apache Kafka
 * прочитать книгу про Apache Pulsar
 * сделать лабы по Apache Pulsar

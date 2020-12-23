@@ -53,6 +53,8 @@
 * сделать лабы по Apache NiFi
 * прочитать книгу про Apache Storm
 * сделать лабы по Apache Storm
+* прочитать книгу про Apache Cassandra
+* сделать лабы по Apache Cassandra
 * прочитать книгу про Apache Flink
 * сделать лабы по Apache Flink
 * прочитать книгу про Apache Beam

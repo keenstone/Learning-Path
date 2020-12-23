@@ -45,6 +45,12 @@
 * сделать лабы по Apache Spark
 * прочитать книгу про Apache Hadoop
 * сделать лабы по Apache Hadoop
+* прочитать книгу про Apache Samza
+* сделать лабы по Apache Samza
+* прочитать книгу про Apache Airflow
+* сделать лабы по Apache Airflow
+* прочитать книгу про Apache NiFi
+* сделать лабы по Apache NiFi
 * прочитать книгу про Apache Storm
 * сделать лабы по Apache Storm
 * прочитать книгу про Apache Flink

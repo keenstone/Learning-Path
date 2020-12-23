@@ -4,7 +4,6 @@
 * ~~https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying~~ тяжело написанная статья. 
 * https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/
 * https://engineering.linkedin.com/datafu/datafus-hourglass-incremental-data-processing-hadoop
-* https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/
 
 ## Основы
 * ~~прочитать Таненбаум: Компьютерные сети~~

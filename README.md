@@ -2,7 +2,7 @@
 
 ## Статейки
 * ~~https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying~~ тяжело написанная статья. 
-* https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/
+* ~~https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/~~ неплохо, но в 2020 не очень актуально.
 * https://engineering.linkedin.com/datafu/datafus-hourglass-incremental-data-processing-hadoop
 
 ## Основы

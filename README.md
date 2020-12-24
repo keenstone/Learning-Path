@@ -47,6 +47,8 @@
 * сделать лабы по Apache Hadoop
 * прочитать книгу про Apache Samza
 * сделать лабы по Apache Samza
+* прочитать книгу про Apache Flum
+* сделать лабы по Apache Flum
 * прочитать книгу про Apache Airflow
 * сделать лабы по Apache Airflow
 * прочитать книгу про Apache NiFi

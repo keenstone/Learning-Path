@@ -44,9 +44,12 @@
 * сделать лабы по Apache Pulsar
 * пройти вводный курс https://learning.oreilly.com/live-training/courses/spark-30-first-steps/0636920458197/
 * прочитать книгу про Apache Spark
-* сделать лабы по Apache Spark
+* сделать лабы по Apache Spark 
 * прочитать книгу про Apache Hadoop
 * сделать лабы по Apache Hadoop
+* прочитать книгу про Apache Gobblin
+* сделать лабы по Apache Gobblin 
+* https://github.com/apache/incubator-gobblin
 * прочитать книгу про Apache Samza
 * сделать лабы по Apache Samza
 * прочитать книгу про Apache Flum

@@ -5,6 +5,7 @@
 
 
 Все вакансии содержат:
+* microservices/architecture опыт работы с современными архитектурными подходами включая микросервисы
 * AWS - требуется просто опыт. Быть Solution Architect не обязательно. 
 * ML - не нужно быть Data Science guru. Нужно понимать какие есть state-of-the-art решения
 * MLOps - DevOps с учетом специфики ML/DL. Как строить Delivery ML решений.

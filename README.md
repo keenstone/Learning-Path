@@ -58,6 +58,7 @@
 * сделать лабы по Apache Airflow
 * прочитать книгу про Apache NiFi
 * сделать лабы по Apache NiFi
+* что пишет один из авторов НиФи про цели проекта и его видение проекта https://www.reddit.com/r/bigdata/comments/80mprc/apache_nifi_vs_gobblin_vs_others/
 * прочитать книгу про Apache Storm
 * сделать лабы по Apache Storm
 * прочитать книгу про Apache Cassandra

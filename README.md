@@ -4,6 +4,7 @@
 1. ~~https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying~~ тяжело написанная статья. 
 2. ~~https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/~~ неплохо, но в 2020 не очень актуально.
 3. https://engineering.linkedin.com/datafu/datafus-hourglass-incremental-data-processing-hadoop
+4. https://queue.acm.org/detail.cfm?id=2745385 There is No Now Problems with simultaneity in distributed systems
 
 ## Основы
 * ~~прочитать Таненбаум: Компьютерные сети~~

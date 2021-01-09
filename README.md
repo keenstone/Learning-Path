@@ -33,8 +33,6 @@
 * разобрать книгу https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns 
 * ~~пройти вводный тренинг https://learning.oreilly.com/live-training/courses/mastering-patterns-in-event-driven-architecture/0636920440239/~~
 * ~~пройти вводный тренинг https://learning.oreilly.com/videos/distributed-systems-in/9781491924914/~~
-* прочитать книгу по Apache Zookeeper https://learning.oreilly.com/library/view/zookeeper/9781449361297/
-* сделать лабы по Apache Zookeeper
 * прочитать книгу про Apache Pulsar
 * сделать лабы по Apache Pulsar
 * пройти вводный курс https://learning.oreilly.com/live-training/courses/spark-30-first-steps/0636920458197/

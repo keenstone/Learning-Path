@@ -18,9 +18,7 @@
 * прочитать Таненбаум: Современные операционные системы
 #### Distributed Systems
 * прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
-#### Streaming
- * Разобрать книгу Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876
- * Разобрать книгу Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale https://www.amazon.com/Architecting-Modern-Data-Platforms-Enterprise/dp/149196927X
+* Разобрать книгу Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale https://www.amazon.com/Architecting-Modern-Data-Platforms-Enterprise/dp/149196927X
 #### Other
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/hands-on-introduction-to-oauth-20/0636920365303/~~ хороший старт для применения.Если уже прочитал Таненбаума. В данном курсе уже есть практика
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/expert-transport-layer-security-tls/0636920396093/~~ неплохое введение в SSL/TLS

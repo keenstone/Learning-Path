@@ -5,7 +5,7 @@
 2. ~~https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/~~ неплохо, но в 2020 не очень актуально.
 3. https://engineering.linkedin.com/datafu/datafus-hourglass-incremental-data-processing-hadoop
 4. ~~https://queue.acm.org/detail.cfm?id=2745385~~ There is No Now Problems with simultaneity in distributed systems
-5. ~~http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html~~ How to beat the CAP theorem
+5. ~~http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html~~ How to beat the CAP theorem. Забавно, но в 2021 году читать про разделение аналитики реального времени и батч процессинг - кажется  естественным.
 
 ## Основы
 * ~~прочитать Таненбаум: Компьютерные сети~~

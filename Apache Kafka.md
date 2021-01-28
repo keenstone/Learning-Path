@@ -7,3 +7,6 @@
 
 * сделать лабы по Apache Kafka:
 * https://github.com/gwenshap/kafka-examples это примеры от автора книг по Кафке Gwen (Chen) Shapira
+
+### Почитать
+* https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals особенно KIP-98

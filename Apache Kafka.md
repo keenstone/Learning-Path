@@ -10,3 +10,7 @@
 
 ### Почитать
 * https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals особенно KIP-98
+
+### Exactly Once Delivery
+К сожалению, без подготовки по Распределенным системам не получится хорошо понять. Надо почитать Таненбаума и потом вернуться с этого места:
+до 0.11 не было EoS. Потом появилось типа EoS продьюсер как сочетание идемпотентного продьюсера и транзакции. по этому нужно почитать https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging  и https://cwiki.apache.org/confluence/display/KAFKA/KIP-129%3A+Streams+Exactly-Once+Semantics После 2.5 появилось ещё https://www.confluent.io/blog/simplified-robust-exactly-one-semantics-in-kafka-2-5/ И вообще блог https://www.confluent.io/blog/ интересный. Также на Medium есть интересные статьи, например, https://medium.com/@jaykreps

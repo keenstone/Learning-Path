@@ -7,6 +7,7 @@
 4. ~~https://queue.acm.org/detail.cfm?id=2745385~~ There is No Now Problems with simultaneity in distributed systems
 5. ~~http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html~~ How to beat the CAP theorem. Забавно, но в 2021 году читать про разделение аналитики реального времени и батч процессинг - кажется  естественным. Интересны проблемы которые автор в конце статьи описывает как то, что ещё нужно решить.
 6. ~~https://www.oreilly.com/radar/questioning-the-lambda-architecture/~~ Questioning the Lambda Architecture. The Lambda Architecture has its merits, but alternatives are worth exploring.
+7. https://martinfowler.com/articles/201701-event-driven.html What do you mean by “Event-Driven”?
 
 ## Основы
 * ~~прочитать Таненбаум: Компьютерные сети~~

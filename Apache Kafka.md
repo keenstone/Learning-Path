@@ -10,6 +10,7 @@
 
 ### Почитать
 * https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals особенно KIP-98
+* https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/
 
 ### Exactly Once Delivery
 К сожалению, без подготовки по Распределенным системам не получится хорошо понять. Надо почитать Таненбаума и потом вернуться с этого места:

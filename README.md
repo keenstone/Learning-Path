@@ -9,6 +9,7 @@
 6. ~~https://www.oreilly.com/radar/questioning-the-lambda-architecture/~~ Questioning the Lambda Architecture. The Lambda Architecture has its merits, but alternatives are worth exploring.
 7. https://martinfowler.com/articles/201701-event-driven.html What do you mean by “Event-Driven”?
 8. https://www.confluent.io/blog/event-streaming-new-big-thing-finance Is Event Streaming the New Big Thing for Finance?
+9. https://www.the-paper-trail.org/post/2014-06-25-the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
 
 ## Основы
 * ~~прочитать Таненбаум: Компьютерные сети~~
@@ -22,6 +23,8 @@
 * прочитать Таненбаум: Современные операционные системы
 #### Distributed Systems
 * прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
+* https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/ A Brief Tour of FLP Impossibility
+* https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/ FLP and CAP aren't the same thing
 * Разобрать книгу Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale https://www.amazon.com/Architecting-Modern-Data-Platforms-Enterprise/dp/149196927X
 #### Other
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/hands-on-introduction-to-oauth-20/0636920365303/~~ хороший старт для применения.Если уже прочитал Таненбаума. В данном курсе уже есть практика

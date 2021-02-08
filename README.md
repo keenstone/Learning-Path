@@ -1,5 +1,5 @@
 # Learning-Path
-
+Забавный РоадМап: https://github.com/datastacktv/data-engineer-roadmap
 ## Статейки
 1. ~~https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying~~ тяжело написанная статья. 
 2. ~~https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/~~ неплохо, но в 2020 не очень актуально.

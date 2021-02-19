@@ -1,5 +1,6 @@
 # Learning-Path
 Забавный РоадМап: https://github.com/datastacktv/data-engineer-roadmap
+
 ## Статейки
 1. ~~https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying~~ тяжело написанная статья. 
 2. ~~https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/~~ неплохо, но в 2020 не очень актуально.
@@ -11,6 +12,7 @@
 8. https://martinfowler.com/articles/201701-event-driven.html What do you mean by “Event-Driven”?
 9. https://www.confluent.io/blog/event-streaming-new-big-thing-finance Is Event Streaming the New Big Thing for Finance?
 10. https://www.the-paper-trail.org/post/2014-06-25-the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
+11. Сборник ссылок: https://girlincomputerscience.blogspot.com/2017/11/bigdata-history.html
 
 ## Основы
 * ~~прочитать Таненбаум: Компьютерные сети~~

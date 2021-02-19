@@ -70,6 +70,8 @@
 * сделать лабы по Apache Flink
 * прочитать книгу про Apache Beam
 * сделать лабы по Apache Beam
+* ~~Разобрать книгу Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876~~ книга отличная. Примеры на Apache Beam и Apache Calcite. Пришлось читать 2 раза чтобы, как мне сейчас кажется, понять некоторые мысли достаточно глубоко. О чем эта книга отлично написано на странице x в самом низу 3 пункта: 1. Теория стримов и таблиц и как они между собой связаны 2. time-varying relations 3. распределенные системы это очень крутая штука и чем больше в них разбираешься тем становится очевиднее, сколько тяжелой работы они снимают с разработчиков.
+
 * разобрать Designing Data-Intensive Applications https://dataintensive.net/ офигенная книжка. Очень понравилась!!!
 
 

@@ -14,6 +14,7 @@
 10. https://www.the-paper-trail.org/post/2014-06-25-the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/
 11. Сборник ссылок: https://girlincomputerscience.blogspot.com/2017/11/bigdata-history.html
 12. ~~https://engineering.linkedin.com/blog/2020/lambda-to-lambda-less-architecture~~ очень похоже на реальный кейс. Надо ещё разок посмотреть чуть попозже
+13. https://www.confluent.io/blog/running-kafka-at-scale-at-pinterest/
 
 ## Основы
 * ~~прочитать Таненбаум: Компьютерные сети~~

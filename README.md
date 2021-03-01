@@ -32,6 +32,8 @@
 * https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/ A Brief Tour of FLP Impossibility
 * https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/ FLP and CAP aren't the same thing
 * Разобрать книгу Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale https://www.amazon.com/Architecting-Modern-Data-Platforms-Enterprise/dp/149196927X
+* Забавно в самом конце https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/ 
+
 #### Other
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/hands-on-introduction-to-oauth-20/0636920365303/~~ хороший старт для применения.Если уже прочитал Таненбаума. В данном курсе уже есть практика
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/expert-transport-layer-security-tls/0636920396093/~~ неплохое введение в SSL/TLS

@@ -82,6 +82,8 @@
 
 * разобрать Designing Data-Intensive Applications https://dataintensive.net/ офигенная книжка. Очень понравилась!!!
 
+##ETL
+Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow vs. Perfect vs. Dragster
 
 ## AWS
 * разобрать книгу Learning Amazon Web Services (AWS): A Hands-On Guide to the Fundamentals of AWS Cloud 

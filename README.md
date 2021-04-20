@@ -82,7 +82,7 @@
 
 * разобрать Designing Data-Intensive Applications https://dataintensive.net/ офигенная книжка. Очень понравилась!!!
 
-##ETL
+## ETL
 Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow vs. Perfect vs. Dragster
 
 ## AWS

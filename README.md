@@ -23,6 +23,7 @@
 
 #### DB
 * прочитать Дейт SQL и реляционная теория
+* ~~прочитать Database System Concepts -  https://www.db-book.com/db6/index.html~~
 * прочитать Database System Concepts -  https://www.db-book.com/db7/index.html
 * прочитать Database Internals https://learning.oreilly.com/library/view/database-internals/9781492040330/
 #### OS

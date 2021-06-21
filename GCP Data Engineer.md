@@ -11,3 +11,8 @@
 * Cloud Interconnect 
 * Cloud Router
 * 
+https://github.com/jorwalk/data-engineering-gcp/blob/master/study-guide.md
+https://simonleewm.medium.com/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311
+https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#
+https://github.com/obrunet/GCP_Data_Engineering/tree/main/Theory
+https://learning.oreilly.com/library/view/official-google-cloud/9781119618430/f07.xhtml

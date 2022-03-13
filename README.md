@@ -21,6 +21,17 @@
 * ~~прочитать Таненбаум: Компьютерные сети~~
 * ~~прочитать Таненбаум: Архитектура компьютера~~
 
+## Cloud
+* ~~получить GCP Data Engineer~~ сделано) https://www.credential.net/c2e98f34-1998-45a2-9f59-485e8fcdcb40?key=11bf720a7aaa0336277884c77662a4b8287e30e031840543710055941c6f6715 
+* получить GCP Cloud Architect
+* пройти курс по MS Azure что-нибудь вроде https://learning.oreilly.com/videos/exam-az-900-microsoft/9780137307005/ или https://learning.oreilly.com/library/view/microsoft-certified-azure/9781264268375/
+* посмотреть чем Azure отличается от GCP
+
+## Containers
+* docker: освоить книжку https://learning.oreilly.com/library/view/docker-deep-dive/9781800565135/
+* Kubernetes: https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/ и обязательно https://learning.oreilly.com/library/view/networking-and-kubernetes/9781492081647/
+* ~~начать использовать AKS в продакшене~~ осталось теорию подтянуть. освоить https://learning.oreilly.com/library/view/hands-on-kubernetes-on/9781801079945/
+
 #### DB
 * прочитать Дейт SQL и реляционная теория
 * ~~прочитать Database System Concepts -  https://www.db-book.com/db6/index.html~~

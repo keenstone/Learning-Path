@@ -110,3 +110,6 @@ Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow vs. Perfect vs. Dragster
 
 ## Tools
 * ~~начать использовать JFrog Artifactory в продакшене~~
+
+## DevOPs
+* ~~пройти курс по Azure DevOps https://learning.oreilly.com/videos/azure-devops-and/9781804618660/~~ нормальный верхнеуровневый вводный курс. Крупными блоками рассказывают что можно сделать WYSTYG. Про YAML pipelines рассказывают только что так можно. Ни ссылки на документацию ни разбор какого-нибудь пайплайна. На 3-ку.

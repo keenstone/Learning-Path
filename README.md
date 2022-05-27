@@ -24,7 +24,8 @@
 ## Cloud
 * ~~получить GCP Data Engineer~~ сделано) https://www.credential.net/c2e98f34-1998-45a2-9f59-485e8fcdcb40?key=11bf720a7aaa0336277884c77662a4b8287e30e031840543710055941c6f6715 
 * получить GCP Cloud Architect
-* пройти курс по MS Azure что-нибудь вроде https://learning.oreilly.com/videos/exam-az-900-microsoft/9780137307005/ или https://learning.oreilly.com/library/view/microsoft-certified-azure/9781264268375/
+* ~~пройти курс по MS Azure что-нибудь вроде https://learning.oreilly.com/videos/exam-az-900-microsoft/9780137307005/~~ не могу сказать, что интересный курс. Если ты уже знаком с облаками, то лучше не смотреть. Много воды и мало конкретики.
+* пройти курс по MS Azure https://learning.oreilly.com/library/view/microsoft-certified-azure/9781264268375/
 * посмотреть чем Azure отличается от GCP
 
 ## Containers

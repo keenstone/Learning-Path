@@ -26,6 +26,7 @@
 * получить GCP Cloud Architect
 * ~~пройти курс по MS Azure что-нибудь вроде https://learning.oreilly.com/videos/exam-az-900-microsoft/9780137307005/~~ не могу сказать, что интересный курс. Если ты уже знаком с облаками, то лучше не смотреть. Много воды и мало конкретики.
 * пройти курс по MS Azure https://learning.oreilly.com/library/view/microsoft-certified-azure/9781264268375/
+* ~~разобрать книгу https://learning.oreilly.com/library/view/hands-on-azure-functions/9781484271223/~~ хорошая книга с примерами. для начала работы за глаза и за уши. Для чего-то более тонкого может не хватить. Видимо для деталей нужно курить оффициальную документацию.
 * посмотреть чем Azure отличается от GCP
 
 ## Containers
@@ -49,7 +50,6 @@
 
 #### Other
 * ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/hands-on-introduction-to-oauth-20/0636920365303/~~ хороший старт для применения.Если уже прочитал Таненбаума. В данном курсе уже есть практика
-* ~~пройти вводный курс https://learning.oreilly.com/live-training/courses/expert-transport-layer-security-tls/0636920396093/~~ неплохое введение в SSL/TLS
 * ~~прочитать книгу https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309~~ неплохая книга. Кника о том, что правильная команда - все, а инструменты - вторично по сравнению с командой. Действительно нужно перечитывать с некоторой периодичностью. Похоже на попурри литературы работы с командой и между командами.
 * почитать про балансировщики: nginx, haproxy, envoy, zuul, traefik
 * почитать про istio
@@ -114,3 +114,4 @@ Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow vs. Perfect vs. Dragster
 
 ## DevOPs
 * ~~пройти курс по Azure DevOps https://learning.oreilly.com/videos/azure-devops-and/9781804618660/~~ нормальный верхнеуровневый вводный курс. Крупными блоками рассказывают что можно сделать WYSTYG. Про YAML pipelines рассказывают только что так можно. Ни ссылки на документацию ни разбор какого-нибудь пайплайна. На 3-ку.
+

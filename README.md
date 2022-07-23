@@ -45,7 +45,7 @@
 * прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
 * https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/ A Brief Tour of FLP Impossibility
 * https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/ FLP and CAP aren't the same thing
-* Разобрать книгу Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale https://www.amazon.com/Architecting-Modern-Data-Platforms-Enterprise/dp/149196927X
+* ~~Разобрать книгу Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale https://www.amazon.com/Architecting-Modern-Data-Platforms-Enterprise/dp/149196927X~~ эта книга как сборник практик. очень мало теории. если есть теория и нужно знать что и как можно сделать с Хадуп, то читать. Но есть мнение, что частично устарела уже.
 * Забавно в самом конце https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/ 
 
 #### Other

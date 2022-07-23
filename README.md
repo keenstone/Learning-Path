@@ -40,7 +40,7 @@
 * прочитать Database System Concepts -  https://www.db-book.com/db7/index.html
 * прочитать Database Internals https://learning.oreilly.com/library/view/database-internals/9781492040330/
 #### OS
-* прочитать Таненбаум: Современные операционные системы
+* ~~прочитать Таненбаум: Современные операционные системы~~ слишком высокоуровневая теория для моих задач, но интересно. Если придется копаться внутри ОС, то однозначно надо читать.
 #### Distributed Systems
 * прочитать Таненбаум: Distributed Systems: Tanenbaum (2017)
 * https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/ A Brief Tour of FLP Impossibility

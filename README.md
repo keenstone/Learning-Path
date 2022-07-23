@@ -30,7 +30,7 @@
 * посмотреть чем Azure отличается от GCP
 
 ## Containers
-* docker: освоить книжку https://learning.oreilly.com/library/view/docker-deep-dive/9781800565135/
+* ~~docker: освоить книжку https://learning.oreilly.com/library/view/docker-deep-dive/9781800565135/~~ не плохо, для начала хорошо. Потом документацию и Медиум отдельные статейки и будет совсем хорошо.
 * Kubernetes: https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/ и обязательно https://learning.oreilly.com/library/view/networking-and-kubernetes/9781492081647/
 * ~~начать использовать AKS в продакшене~~ осталось теорию подтянуть. освоить https://learning.oreilly.com/library/view/hands-on-kubernetes-on/9781801079945/
 

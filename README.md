@@ -79,7 +79,7 @@
 * сделать лабы по Apache Samza
 * прочитать книгу про Apache Flum
 * сделать лабы по Apache Flum
-* разобрать книгу https://learning.oreilly.com/library/view/data-pipelines-with/9781617296901/
+* прочитать книгу про Apache Airflow: https://learning.oreilly.com/library/view/data-pipelines-with/9781617296901/
 * прочитать книгу про Apache NiFi
 * сделать лабы по Apache NiFi
 * что пишет один из авторов НиФи про цели проекта и его видение проекта https://www.reddit.com/r/bigdata/comments/80mprc/apache_nifi_vs_gobblin_vs_others/

@@ -79,7 +79,7 @@
 * сделать лабы по Apache Samza
 * прочитать книгу про Apache Flum
 * сделать лабы по Apache Flum
-* прочитать книгу про Apache Airflow: https://learning.oreilly.com/library/view/data-pipelines-with/9781617296901/
+* прочитать книгу про Apache Airflow: ~~Data Pipelines with Apache Airflow https://learning.oreilly.com/library/view/data-pipelines-with/9781617296901/~~ неплохая книга для начала - вообще норм. недостаточно инфы про Executors. Если нужны будут Celery и Kubernetes, то тут явно мало. Также мне не хватило https://youtu.be/PYTu3PWVR60
 * прочитать книгу про Apache NiFi
 * сделать лабы по Apache NiFi
 * что пишет один из авторов НиФи про цели проекта и его видение проекта https://www.reddit.com/r/bigdata/comments/80mprc/apache_nifi_vs_gobblin_vs_others/

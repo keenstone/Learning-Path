@@ -117,3 +117,4 @@ Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow vs. Perfect vs. Dragster
 
 ## Канальчики
 * https://www.youtube.com/c/ApacheAirflow/videos
+* https://www.dremio.com/subsurface/resource-library/

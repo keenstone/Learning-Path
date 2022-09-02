@@ -68,8 +68,7 @@
 * сделать лабы по Apache Pulsar
 * посмотрть NATS
 * пройти вводный курс https://learning.oreilly.com/live-training/courses/spark-30-first-steps/0636920458197/
-* прочитать книгу про Apache Spark
-* сделать лабы по Apache Spark 
+* прочитать книгу про Apache Spark: Learning Spark, 2nd Edition https://learning.oreilly.com/library/view/learning-spark-2nd/9781492050032/
 * прочитать книгу про Apache Hadoop
 * сделать лабы по Apache Hadoop
 * прочитать книгу про Apache Gobblin
